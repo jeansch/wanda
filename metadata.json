@@ -1,0 +1,8 @@
+{
+  "description": "Wanda displays epigrams, known as fortune cookies.", 
+  "name": "Wanda (the fish)", 
+  "shell-version": ["3.12"], 
+  "url": "https://github.com/jeansch/wanda", 
+  "uuid": "wanda@schurger.org", 
+  "version": 1
+}

@@ -1,0 +1,20 @@
+Wanda (the fish)
+
+* History
+
+Scythed from https://github.com/sandys/wanda-the-fish by
+https://extensions.gnome.org/accounts/profile/sandys1
+which already reaped it from https://code.google.com/p/wandathefish/
+by https://extensions.gnome.org/accounts/profile/k_labrie
+
+This extension seems to want to replace its Gnome Applets alter ego.
+
+** Changes
+
+   - Cleaner code
+   - New icon (looks more integrated)
+   - New style (looks like a console)
+   - Removed string not related to the fortune itself
+   - Removed unnecessary ending newline
+   - Handle unicode properly
+   - Better handling of error messages (report what the system says)
